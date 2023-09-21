@@ -1,0 +1,16 @@
+{
+  "name": "姓名",
+  "gender": "性别",
+  "phone": "手机",
+  "intent": "意向组别",
+  "male": "男",
+  "female": "女",
+  "apply_form_start": "提交报名表单 开始",
+  "apply_form_end": "提交报名表单 结束",
+  "select_time_start": "选择面试时间 开始",
+  "select_time_end": "选择面试时间 结束",
+  "show_interview_questions": "展示面试题目",
+  "publish_result_start": "公布面试结果 开始",
+  "review_this_season": "赛季回顾总结 开始",
+  "first_interview_date": "首次面试日期"
+}
